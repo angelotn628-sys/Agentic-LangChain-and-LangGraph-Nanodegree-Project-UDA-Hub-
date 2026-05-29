@@ -1,0 +1,20 @@
+{"status": "open", "content": "I can't log in to my Cultpass account.", "owner_id": "a4ab87", "owner_name": "Alice Kingsley", "role": "user", "channel": "chat", "tags": "login, access"}
+{"status": "open", "content": "I was charged twice for my monthly subscription.", "owner_id": "f556c0", "owner_name": "Bob Stone", "role": "user", "channel": "email", "tags": "billing, duplicate charge"}
+{"status": "open", "content": "My reservation for yoga class disappeared from the app.", "owner_id": "88382b", "owner_name": "Cathy Bloom", "role": "user", "channel": "chat", "tags": "reservation, app issue"}
+{"status": "open", "content": "I need to update the email address on my account.", "owner_id": "888fb2", "owner_name": "David Noir", "role": "user", "channel": "web", "tags": "account, profile update"}
+{"status": "open", "content": "My account says blocked and I don't know why.", "owner_id": "f1f10d", "owner_name": "Eva Green", "role": "user", "channel": "chat", "tags": "account, blocked"}
+{"status": "open", "content": "I canceled my membership but I still got billed.", "owner_id": "e6376d", "owner_name": "Frank Ocean", "role": "user", "channel": "email", "tags": "billing, cancellation"}
+{"status": "open", "content": "The app crashes every time I try to book a class.", "owner_id": "b7c921", "owner_name": "Grace Hollow", "role": "user", "channel": "chat", "tags": "app issue, booking"}
+{"status": "open", "content": "I forgot my password and the reset link is not working.", "owner_id": "c3d442", "owner_name": "Henry Vale", "role": "user", "channel": "web", "tags": "password reset, login"}
+{"status": "open", "content": "Can I transfer my reservation to a different time slot?", "owner_id": "d8e113", "owner_name": "Isla Frost", "role": "user", "channel": "chat", "tags": "reservation, schedule change"}
+{"status": "open", "content": "I was marked as a no-show even though I attended the class.", "owner_id": "e2f774", "owner_name": "Jack Mercer", "role": "user", "channel": "email", "tags": "attendance, no-show"}
+{"status": "open", "content": "The promo code I received does not apply at checkout.", "owner_id": "f9a305", "owner_name": "Kara Fields", "role": "user", "channel": "web", "tags": "promo code, checkout"}
+{"status": "open", "content": "I want to pause my membership for one month.", "owner_id": "a1d556", "owner_name": "Liam Cross", "role": "user", "channel": "chat", "tags": "membership, pause"}
+{"status": "open", "content": "I booked a class by mistake and need to cancel it.", "owner_id": "b2e667", "owner_name": "Maya Rivers", "role": "user", "channel": "chat", "tags": "reservation, cancellation"}
+{"status": "open", "content": "My payment method keeps getting declined even though the card works elsewhere.", "owner_id": "c4f778", "owner_name": "Noah Slate", "role": "user", "channel": "email", "tags": "payment, billing"}
+{"status": "open", "content": "I can't see my active subscription in the account dashboard.", "owner_id": "d5a889", "owner_name": "Olivia Hart", "role": "user", "channel": "web", "tags": "subscription, dashboard"}
+{"status": "open", "content": "The instructor changed but I was not notified before the class.", "owner_id": "e6b990", "owner_name": "Paul Ember", "role": "user", "channel": "chat", "tags": "class info, notification"}
+{"status": "open", "content": "I need a receipt for my last payment for reimbursement purposes.", "owner_id": "f7c101", "owner_name": "Quinn Lake", "role": "user", "channel": "email", "tags": "receipt, billing"}
+{"status": "open", "content": "The location listed for my class seems incorrect.", "owner_id": "a8d212", "owner_name": "Ruby Lane", "role": "user", "channel": "web", "tags": "location, class info"}
+{"status": "open", "content": "I want to know why my account was flagged for suspicious activity.", "owner_id": "b9e323", "owner_name": "Sam Wilder", "role": "user", "channel": "chat", "tags": "security, account"}
+{"status": "open", "content": "I was billed after my free trial ended without a reminder.", "owner_id": "cad434", "owner_name": "Tina Brooks", "role": "user", "channel": "email", "tags": "free trial, billing"}
